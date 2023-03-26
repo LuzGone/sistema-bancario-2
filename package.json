@@ -1,0 +1,20 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "Exemplo de código em TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "start": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:LuzGone/sistema-bancario-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.0.2"
+  }
+}
